@@ -1,0 +1,4 @@
+{
+    "ad_type":["itms-services://?action=download-manifest","appDownload=true","weixin://"],
+    "enable":true
+}
